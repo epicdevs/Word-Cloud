@@ -1,8 +1,6 @@
 Word Cloud
 ==========
-author: epicdves
-
-description: java program for generating word clouds
+Java code for generating word clouds
 
 https://github.com/epicdevs/Word-Cloud/
 
