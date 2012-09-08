@@ -1,8 +1,8 @@
 Word Cloud
 ==========
-Java code for generating word clouds
-
 https://github.com/epicdevs/Word-Cloud/
+
+Java code for generating word clouds
 
 The algorithm used in the codes is very sloppy, generating word clouds with random trials.
 
