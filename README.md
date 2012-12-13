@@ -6,7 +6,7 @@ Java code for generating word clouds
 
 The algorithm used in the codes is very sloppy, generating word clouds with random trials.
 
-If you want to know sophisticated algorithm for word clouds, please refer to
+If you want to know sophisticated algorithms for word clouds, please refer to
 
 http://static.mrfeinberg.com/bv_ch03.pdf
 
